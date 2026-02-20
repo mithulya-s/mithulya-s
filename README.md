@@ -1,16 +1,34 @@
-## Hi there 👋
+# Hi, Mithulya here!
 
-<!--
-**mithulya-s/mithulya-s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a data science and artificial intelligence undergraduate who loves : 
+  - mathematics
+  - machine-learning pipelines
+  - real-world data
+  - clean code
 
-Here are some ideas to get you started:
+## Currently working on :
+  - Credit default risk prediction modelling.
+  - Deploying trained models into applications.
+  - Refactoring codebases of early personal projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Toolbox
+**Languages**
+- Python - SQL - R - Java - JavaScript
+
+**Data and ML**
+- Pandas, Numpy, Scipy
+- Scikit-learn
+- Matplotlib, Seaborn
+- TensorFlow
+- XGBoost, CatBoost
+
+**Tools**
+- Git and GitHub
+- Jupyter Notebook, Colab
+- Pycharm, Intelli J
+- VS Code
+
+
+
+
+
