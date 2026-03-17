@@ -1,16 +1,9 @@
 # Hey, this is Mithulya!
 
 I'm a data science and artificial intelligence undergraduate who loves : 
-  - mathematics
-  - machine-learning pipelines
-  - clean code 
-  - real-world data
-  
-
-## Currently working on :
-  - Credit default risk prediction modelling.
-  - End-to-end Aviation data engineering pipeline.
-  - Refactoring codebases of early projects.
+  - Mathematics
+  - Machine-learning pipelines
+  - Clean code 
 
 ## Toolbox
 **Languages**
@@ -29,21 +22,16 @@ I'm a data science and artificial intelligence undergraduate who loves :
 
 ** Cloud & Databases **
 * Cloud : AWS
-* Database : MySQL, PostegreSQL
+* Database : MySQL, PostegreSQL, DuckDB
 
 ## Random Things
 When I'm not experimenting with a framework or doing coursework, I'm either:
   - Reading
   - Playing bad guitar
-  - Doing street photogrpahy
+  - Doing photogrpahy
   - Cross- stitching
-  - Drinking Tea and cooking
-  -  Overthinking
-
-### Don't hesitate to reach out : 
-  - Email :
-  - Kaggle :
-  - LinkedIn :
+  - Drinking Tea
+  - Overthinking
   - Hugging Face:
 
 
