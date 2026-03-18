@@ -2,7 +2,7 @@
 
 > Undergraduate in Data Science with a flair for learning!
 
-💎 I love building machine-learning pipelines, writing tidy, well-tested code, and get a little excited about elegant math. 
+I love building machine-learning pipelines, writing tidy, well-tested code, and get a little excited about elegant math. 
 
 ---
 ### 📸 Quick snapshot
