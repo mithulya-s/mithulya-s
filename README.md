@@ -1,6 +1,6 @@
 # 🍃 Hey — I'm Mithulya!
 
-> Undergraduate in Data Science with a flair for learning!
+> Undergraduate in Data Science who likes figuring things out!
 
 I love building machine-learning pipelines, writing tidy, well-tested code, and get a little excited about elegant math. 
 
