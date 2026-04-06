@@ -1,16 +1,16 @@
 # 🍃 Hey — I'm Mithulya!
 
-> Undergraduate in Data Science who likes figuring things out!
+> Chronic learner who loves figuring things out!
 
-I love building machine-learning pipelines, writing tidy, well-tested code, and get a little excited about elegant math. 
+I love building machine-learning pipelines, writing tidy, well-tested code and get a little excited about elegant math. 
 
 ---
-### 📸 Quick snapshot
+### Quick snapshot
 - **Field:** Data Science & Machine Learning
 - **Interests:** · ML and data pipelines · Mathematics · Clean code · Real-world data 
 
 ---
-## 🧰 Toolbox
+## Toolbox
 
 **Languages**
 - Python · SQL · R · Java 
@@ -30,7 +30,7 @@ I love building machine-learning pipelines, writing tidy, well-tested code, and 
 - Databases: MySQL · DuckDB
 ---
 
-## 💻 What I work on
+## What I work on
 - Building end-to-end ML pipelines 
 - Small, fast feature stores for analytics and modelling
   
