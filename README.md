@@ -1,4 +1,4 @@
-# 🍃 Hey — I'm Mithulya!
+# 🍃 Hey, I'm Mithulya!
 
 > Chronic learner who loves figuring things out!
 
