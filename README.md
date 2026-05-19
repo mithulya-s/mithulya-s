@@ -1,12 +1,11 @@
-# 🍃 Mithulya K
+# 🍃 Hey, I'm Mithulya!
 
-> Building intelligent systems with clean, elegant code.
-
-ML Engineer passionate about end-to-end pipelines, mathematics, and data-driven insights.
+I love building machine-learning pipelines, writing tidy, well-tested code and get a little excited about elegant math. 
+Overall a chronic learner who loves figuring things out!
 
 ---
 
-## 🔧 Tech Stack
+## Tech Stack
 
 **Languages**
 
@@ -15,7 +14,7 @@ ML Engineer passionate about end-to-end pipelines, mathematics, and data-driven 
 ![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
 
-**Data Science & ML**
+**Data Science & Machine Learning**
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
@@ -28,15 +27,15 @@ ML Engineer passionate about end-to-end pipelines, mathematics, and data-driven 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white)
 
-**Tools & Development**
 
+**Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=flat-square&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 
-**Cloud & Databases**
+**Cloud & DevOps**
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
@@ -47,7 +46,7 @@ ML Engineer passionate about end-to-end pipelines, mathematics, and data-driven 
 ## 💡 What I'm Building
 
 - End-to-end ML pipelines from data ingestion to production
-- Lightweight feature stores for analytics & modeling
+- Auditable and transparent Artificial Intelligence applications
 - Elegant solutions to complex data problems
 
 ---
@@ -61,13 +60,15 @@ ML Engineer passionate about end-to-end pipelines, mathematics, and data-driven 
 
 ---
 
-## 📫 Connect
+## 📫 Reach Me
 
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:mithulyasandali@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mithulya-k)
 
 ---
 
+> Random Fact: When I'm not exploring a framework or geeking over Math, I'm either phographing, reading, playing guitar or cross-stitching.
+
 <div align="center">
-  <i>Let's build something amazing together!</i>
+  <i> Let's build something nice over tea! </i>
 </div>
