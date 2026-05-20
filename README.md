@@ -18,6 +18,8 @@ Overall a chronic learner who loves figuring things out!
   <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" height="36" style="margin:6px" />
 </div>
 
+
+
 **Data Science & Machine Learning**
 
 <div align="left">
@@ -27,15 +29,14 @@ Overall a chronic learner who loves figuring things out!
   <img alt="scikit-learn" src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="36" style="margin:6px" />
   <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white" height="36" style="margin:6px" />
   <img alt="Keras" src="https://img.shields.io/badge/Keras-D00000?style=flat&logo=keras&logoColor=white" height="36" style="margin:6px" />
-</div>
-
-<div align="left">
   <img alt="LightGBM" src="https://img.shields.io/badge/LightGBM-1F77E5?style=flat&logo=lightgbm&logoColor=white" height="36" style="margin:6px" />
   <img alt="XGBoost" src="https://img.shields.io/badge/XGBoost-23B8D9?style=flat&logoColor=white" height="36" style="margin:6px" />
   <img alt="CatBoost" src="https://img.shields.io/badge/CatBoost-FFB100?style=flat&logoColor=black" height="36" style="margin:6px" />
   <img alt="Matplotlib" src="https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=python&logoColor=white" height="36" style="margin:6px" />
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" height="36" style="margin:6px" />
 </div>
+
+
 
 **Development & IDEs**
 
@@ -45,12 +46,11 @@ Overall a chronic learner who loves figuring things out!
   <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJ-000000?style=flat&logo=intellij-idea&logoColor=white" height="36" style="margin:6px" />
   <img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37726?style=flat&logo=jupyter&logoColor=white" height="36" style="margin:6px" />
   <img alt="Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=flat&logo=google-colab&logoColor=white" height="36" style="margin:6px" />
-</div>
-
-<div align="left">
   <img alt="Bash" src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white" height="36" style="margin:6px" />
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="36" style="margin:6px" />
 </div>
+
+
 
 **Databases & Big Data**
 
@@ -61,6 +61,8 @@ Overall a chronic learner who loves figuring things out!
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" height="36" style="margin:6px" />
 </div>
 
+
+
 **Cloud & DevOps**
 
 <div align="left">
@@ -70,6 +72,8 @@ Overall a chronic learner who loves figuring things out!
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-FF6B6B?style=flat&logo=github-actions&logoColor=white" height="36" style="margin:6px" />
 </div>
 
+
+
 **Data & BI Tools**
 
 <div align="left">
@@ -77,13 +81,14 @@ Overall a chronic learner who loves figuring things out!
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="36" style="margin:6px" />
 </div>
 
+
+
 **Learning & Community**
 
 <div align="left">
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" height="36" style="margin:6px" />
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="36" style="margin:6px" />
-  <img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="36" style="margin:6px" />
-  <img alt="CodeWars" src="https://img.shields.io/badge/CodeWars-B1001D?style=flat&logo=codewars&logoColor=white" height="36" style="margin:6px" />
+  <a href="https://huggingface.co/mith-k"><img alt="Hugging Face" src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" height="36" style="margin:6px" /></a>
+  <a href="https://www.codewars.com/users/sandali_k"><img alt="CodeWars" src="https://img.shields.io/badge/CodeWars-B1001D?style=flat&logo=codewars&logoColor=white" height="36" style="margin:6px" />
 </div>
 
 ---
@@ -114,8 +119,6 @@ Overall a chronic learner who loves figuring things out!
 
 ---
 
-> Random Fact: When I'm not exploring a framework or geeking over Math, I'm either phographing, reading, playing guitar or cross-stitching.
+> Random Fact: When I'm not exploring a framework or geeking over Math, I'm either phographing, reading, playing guitar or cross-stitching. 🩵
 
-<div align="center">
-  <i> Let's build something nice over tea! </i>
-</div>
+<div align="left">Let's build something nice over 🍵!</div>
