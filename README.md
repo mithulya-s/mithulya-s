@@ -1,13 +1,13 @@
-# 🍃 Hey, I'm Mithulya!
+# 🍃 Hi, I'm Mithulya!
 
 I love building machine-learning pipelines, writing tidy, well-tested code and get a little excited about elegant math. 
-Overall a chronic learner who loves figuring things out!
+Simply put, a chronic learner who loves figuring things out!
 
 ---
 
 ## Tech Stack
 
-**Programming Languages**
+### Programming Languages
 
 <div>
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="36" style="margin:6px" />
@@ -19,8 +19,7 @@ Overall a chronic learner who loves figuring things out!
 </div>
 
 
-
-**Data Science & Machine Learning**
+### Data Science & Machine Learning
 
 <div align="left">
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white" height="36" style="margin:6px" />
@@ -38,7 +37,7 @@ Overall a chronic learner who loves figuring things out!
 
 
 
-**Development & IDEs**
+### Development & IDEs
 
 <div align="left">
   <img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000?style=flat&logo=pycharm&logoColor=white" height="36" style="margin:6px" />
@@ -52,7 +51,7 @@ Overall a chronic learner who loves figuring things out!
 
 
 
-**Databases & Big Data**
+### Databases & Big Data
 
 <div align="left">
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="36" style="margin:6px" />
@@ -63,7 +62,7 @@ Overall a chronic learner who loves figuring things out!
 
 
 
-**Cloud & DevOps**
+### Cloud & DevOps
 
 <div align="left">
   <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" height="36" style="margin:6px" />
@@ -74,7 +73,7 @@ Overall a chronic learner who loves figuring things out!
 
 
 
-**Data & BI Tools**
+### Data & BI Tools
 
 <div align="left">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="36" style="margin:6px" />
@@ -83,7 +82,7 @@ Overall a chronic learner who loves figuring things out!
 
 
 
-**Learning & Community**
+### Learning & Community
 
 <div align="left">
   <img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" height="36" style="margin:6px" />
@@ -121,4 +120,4 @@ Overall a chronic learner who loves figuring things out!
 
 > Random Fact: When I'm not exploring a framework or geeking over Math, I'm either phographing, reading, playing guitar or cross-stitching. 🩵
 
-<div align="left">Let's build something nice over 🍵!</div>
+<div align="center"> Build something nice with me over 🍵!</div>
