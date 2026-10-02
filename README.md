@@ -1,6 +1,6 @@
 # 🍃 Hi, I'm Mithulya!
 
-I love building machine-learning pipelines, writing tidy, well-tested code, and get a little too excited about elegant math.
+I love building machine-learning pipelines, writing tidy, well-tested code, and get a little excited about elegant math.
 
 A lifelong learner who loves data and figuring things out.
 
