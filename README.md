@@ -5,6 +5,7 @@ I love building machine-learning pipelines, writing tidy, well-tested code, and 
 A lifelong learner who loves data and figuring things out.
 
 Simple, really.
+
 ---
 
 ## What I tinker with
