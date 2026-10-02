@@ -1,11 +1,12 @@
-# 🍃 Hi, I'm Mithulya!
+# 🍃 Hi, this is Mithulya!
 
 I love building machine-learning pipelines, writing tidy, well-tested code and get a little excited about elegant math. 
-Simply put, a chronic learner who loves figuring things out!
+And a lifelong learner who loves data and figuring things out. 
+Simple, really. 
 
 ---
 
-## Tech Stack
+## What I tinker with
 
 ### Programming Languages
 
@@ -35,8 +36,6 @@ Simply put, a chronic learner who loves figuring things out!
   <img alt="Seaborn" src="https://img.shields.io/badge/Seaborn-4C72B0?style=flat&logo=python&logoColor=white" height="36" style="margin:6px" />
 </div>
 
-
-
 ### Development & IDEs
 
 <div align="left">
@@ -49,8 +48,6 @@ Simply put, a chronic learner who loves figuring things out!
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="36" style="margin:6px" />
 </div>
 
-
-
 ### Databases & Big Data
 
 <div align="left">
@@ -59,8 +56,6 @@ Simply put, a chronic learner who loves figuring things out!
   <img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apache-spark&logoColor=white" height="36" style="margin:6px" />
   <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white" height="36" style="margin:6px" />
 </div>
-
-
 
 ### Cloud & DevOps
 
@@ -71,16 +66,12 @@ Simply put, a chronic learner who loves figuring things out!
   <img alt="CI/CD" src="https://img.shields.io/badge/CI%2FCD-FF6B6B?style=flat&logo=github-actions&logoColor=white" height="36" style="margin:6px" />
 </div>
 
-
-
 ### Data & BI Tools
 
 <div align="left">
   <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black" height="36" style="margin:6px" />
   <img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" height="36" style="margin:6px" />
 </div>
-
-
 
 ### Learning & Community
 
@@ -92,11 +83,11 @@ Simply put, a chronic learner who loves figuring things out!
 
 ---
 
-## 💡 What I'm Building
+## What I'm building
 
 - End-to-end ML pipelines from data ingestion to production
 - Auditable and transparent Artificial Intelligence applications
-- Elegant solutions to complex data problems
+- Pretty solutions to complex data problems
 
 ---
 
@@ -118,6 +109,6 @@ Simply put, a chronic learner who loves figuring things out!
 
 ---
 
-> Random Fact: When I'm not exploring a framework or geeking over Math, I'm either phographing, reading, playing guitar or cross-stitching. 🩵
+> Random Fact: When I'm not exploring a framework or geeking over Math, I'm either clicking pictures, reading, or cross-stitching. 🩵
 
 <div align="center"> Build something nice with me over 🍵!</div>
