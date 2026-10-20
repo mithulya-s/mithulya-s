@@ -93,15 +93,6 @@ Simple, really.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=mithulya-s&show_icons=true&count_private=true&theme=algolia&hide=prs,issues,contribs&hide_title=true" alt="GitHub Stats" />
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mithulya-s&layout=compact&theme=algolia&hide_border=true" alt="Top Languages" />
-</div>
-
----
-
 ## 📫 Reach Me
 
 <div align="left">
