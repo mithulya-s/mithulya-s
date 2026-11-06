@@ -104,8 +104,9 @@ Simple, really.
 
 > Random Fact: When I'm not exploring a framework or geeking over Math, I'm either clicking pictures, reading, or cross-stitching. 🩵
 
-![](https://komarev.com/ghpvc/?username=mithulya-s&style=for-the-badge&color=blue)
-
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mithulya-s&style=for-the-badge&color=blue" alt="Profile views" />
+</p>
 
 <div align="center"> Build something nice with me over 🍵!</div>
 
